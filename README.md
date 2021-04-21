@@ -4,6 +4,7 @@
 
 * Matjaž Zaveršnik
 * Matija Pretnar
+* Jure Novak
 
 ## Kratek opis
 
