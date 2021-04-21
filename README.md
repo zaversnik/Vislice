@@ -4,7 +4,7 @@
 
 * Matjaž Zaveršnik
 * Matija Pretnar
-* Sonja Dolenc
+* Jure Novak
 
 ## Kratek opis
 
