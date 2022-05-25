@@ -5,6 +5,10 @@
   <style type="text/css">
     h1 { color: red; }
     body { background-color: lightyellow; }
+    td { text-align: center; }
+    .narobe { background-color: red; }
+    .prav { background-color: green; }
+    .prazno { background-color: gray; }
   </style>
 </head>
 <body>
